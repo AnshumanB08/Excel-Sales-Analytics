@@ -1,4 +1,6 @@
-# Excel-Sales-Analytics
+# 📊 Sales Analytics - Excel
+
+Sales analytics project for **AtliQ Hardware**, an imaginary consumer electronics company, to leverage data-driven decision-making using **Microsoft Excel**.
 
 ## Sales Report :
 
